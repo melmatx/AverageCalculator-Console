@@ -1,0 +1,3 @@
+/Users/melmathewpalana/CLionProjects/AverageCalculator/cmake-build-debug/CMakeFiles/AverageCalculator.dir
+/Users/melmathewpalana/CLionProjects/AverageCalculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/melmathewpalana/CLionProjects/AverageCalculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
